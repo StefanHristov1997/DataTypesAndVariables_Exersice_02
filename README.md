@@ -1,2 +1,2 @@
-# DataTypesAndVariables_Exersice_02
+# DataTypesAndVariables_Exercise_02
  FundamentalsModule
